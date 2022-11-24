@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290186095618",
+    "project_id": "mestore-cf105",
+    "storage_bucket": "mestore-cf105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290186095618:android:6ce375d40da4d3f2ac0b1b",
+        "android_client_info": {
+          "package_name": "com.example.mestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290186095618-ga1d5mipkpe39vdasqit9984qado2c3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISwDiDipM5Sse0ZKb7jgulDApJAsvQ4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290186095618-ga1d5mipkpe39vdasqit9984qado2c3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
